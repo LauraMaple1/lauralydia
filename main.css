@@ -10,6 +10,10 @@ a {
   font-family: 'Quicksand', sans-serif;
 }
 
+.nav {
+  background:rgba(0,0,0,0.5);
+}
+
 .nav li {
   display: inline-block;
   position: relative;
