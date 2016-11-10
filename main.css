@@ -1,1 +1,27 @@
+body {
+  background-image: url('christmas-background.jpg');
+  background-size: cover;
+  font-family: sans-serif;
+}
 
+a {
+  color: white;
+  font-size: 20px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.nav {
+  background:rgba(0,0,0,0.5);
+}
+
+.nav li {
+  display: inline-block;
+  position: relative;
+  padding: 0px 40px;
+}
+
+/*font-family: 'Amatic SC', cursive;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Indie Flower', cursive;*/
