@@ -1,0 +1,28 @@
+body {
+  background-image: url('redsnowflakes.jpg');
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+a {
+  color: white;
+  font-size: 20px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.nav {
+  background:rgba(0,0,0,0.5);
+}
+
+.nav li {
+  display: inline-block;
+  position: relative;
+  padding: 0px 40px;
+
+}
+
+img {
+  border-style: solid;
+  border-color: white;
+  border-width: medium;
+}
