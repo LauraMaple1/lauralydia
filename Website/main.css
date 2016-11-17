@@ -1,7 +1,12 @@
 body {
-  background-image: url('christmas-background.jpg');
+  background-image: url('christmas-bench-scene.jpg');
   background-size: cover;
   font-family: sans-serif;
+}
+
+body.index {
+  color: white;
+  text-align: center;
 }
 
 body.winter-wonderland {
@@ -10,6 +15,23 @@ body.winter-wonderland {
 
 body.spooky-special {
   background-image: url('pumpkins-many.jpg')
+}
+
+body.Blog {
+  background-image: url('christmas-tree-mug.jpg')
+}
+
+strong.homepage-title {
+  font-size: 120px;
+  font-family:'Amatic SC', cursive;
+
+}
+
+div#page-info {
+  font-size: 20px;
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  text-align: center;
 }
 
 div {
@@ -32,10 +54,20 @@ ul.nav li {
   padding: 0px 40px;
 }
 
+div.myButton {
+  background: url(facebook.png) no-repeat;
+  cursor: pointer;
+  width:20px;
+  height: 10px;
+  border: none;
+}
+
 img {
   border: 7px solid white;
 
 }
+
+
 
 /*font-family: 'Amatic SC', cursive;
 font-family: 'Quicksand', sans-serif;
